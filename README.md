@@ -11,4 +11,4 @@ The central urban planning committee of Banana Republic has asked for help in fo
 # Method
 
 *    Simple Baseline: Linear Regression
-*    Complex Method: XGBoost, LSTM, Saimax
+*    Complex Method: XGBoost, LSTM, Sarimax
