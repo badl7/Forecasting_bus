@@ -7,3 +7,8 @@ The central urban planning committee of Banana Republic has asked for help in fo
     TIMESTAMP: The exact time of the measurement
     USAGE: The number of buses in use at the time of measurement
     TOTAL_CAPACITY: The total number of buses in the municipality
+
+# Method
+
+*    Simple Baseline: Linear Regression
+*    Complex Method: XGBoost, LSTM, Saimax
